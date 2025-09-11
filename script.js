@@ -20,9 +20,11 @@ avanca.for
 // renicia o jogo ao clicar no botão de renicio
 if (reniciarBtn){
     reniciarBtn. addEventListener( 'click', () =>{
-    const atual = document.query
+    const atual = document.querySelector('.ativo');
+    atual. classList.remove ('ativo');
+    Document.get
+
+
+
     })
-
-
-
 }
