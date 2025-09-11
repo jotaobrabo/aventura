@@ -1,5 +1,4 @@
-const avanca = document. querySelectorAll('.btn-proximo');
-avanca.for
+c
 
 
 
@@ -27,4 +26,4 @@ if (reniciarBtn){
 
 
     })
-}
+}ana
